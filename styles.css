@@ -87,8 +87,11 @@ body {
 }
 
 .avatar-container img {
-  height: 700px;
-  width: auto;
+  height: 80%;
+  width: 80%;
+  border-radius: 100%;
+  border: solid 2px black;
+  
 }
 
 .avatar-container h3 {
